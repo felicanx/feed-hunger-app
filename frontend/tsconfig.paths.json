@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@frontend/common": ["common"],
+      "@frontend/core": ["core"],
+      "@frontend/auth": ["auth"],
+      "@frontend/assets": ["assets"]
+    }
+  }
+}
